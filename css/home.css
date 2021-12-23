@@ -1,0 +1,52 @@
+.minimo_form{
+
+    display: flex;
+    
+    justify-content: space-between;
+    
+    }
+        
+        .minimo{
+        
+        width: 50%;
+        
+        /* background-color: red; */
+        }
+        .minimo a h2{
+        
+        text-decoration: none;
+        
+        margin: auto;
+        
+        text-align: center;
+        
+        height: 46px;
+        }
+    
+        .minimo a img{
+        
+        width: 100%;
+        
+        height: 100%;
+        }
+        
+        
+        .form{
+        
+        }
+ 
+    .form a h2{
+        text-decoration: none;
+        
+        margin: auto;
+        
+        text-align: center;
+        
+        height: 46px;
+        }
+    .form a img{
+    
+    width: 100%;
+    
+    height: 100%;
+    }
